@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+onnx
+onnxruntime
+onnxconverter-common
+fastapi
+uvicorn
+numpy

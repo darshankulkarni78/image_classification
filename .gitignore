@@ -1,0 +1,12 @@
+# cache
+__pycache__/
+
+# large data folders
+data_final/
+data_processed/
+
+# model artifacts
+models/
+
+# notebooks
+training.ipynb
