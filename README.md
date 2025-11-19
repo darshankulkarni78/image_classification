@@ -9,6 +9,7 @@ A compact computer-vision pipeline for classifying cars vs trucks using:
 - FastAPI deployment  
 
 ## Folder Structure
+```bash
 project/
 ├── data_final/ # train/test split (ignored)
 ├── data_processed/ # preprocessed images (ignored)
@@ -24,7 +25,7 @@ project/
 ├── app/
 │ └── app.py
 └── requirements.txt
-
+```
 
 ## Dataset
 Subset of STL-10 reorganized into:
